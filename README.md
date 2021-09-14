@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Sam-Rind
-- 👀 I’m interested in learning somethin new
+- 👀 I’m interested in learning something new
 - 🌱 I’m currently learning diff nodejs frameworks
 - 💞️ I’m looking to collaborate on nodejs projects
 - 📫 How to reach me 
