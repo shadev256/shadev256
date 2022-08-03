@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @Sam-Rind
 - 👀 I’m interested in learning something new
-- 🌱 I’m currently learning diff nodejs frameworks
-- 💞️ I’m looking to collaborate on nodejs projects
+- 🌱 I’m currently learning dotNet
+- 💞️ I’m looking to collaborate on dotNet projects
 - 📫 How to reach me 
       discord:sam-rind#4498
-      linkdin: www.linkedin.com/in/sam-rind-313309200
+      linkdin:https://www.linkedin.com/in/usama-shahid-313309200/
       email: shahidusama40763@gmail.com
 
 <!---
