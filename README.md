@@ -24,7 +24,6 @@
 <a href="https://stackoverflow.com/users/14924187/usama-shahid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="14924187/usama-shahid" height="30" width="40" /></a>
 <a href="https://www.facebook.com/profile.php?id=100043921966677" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="usama shahid" height="30" width="40" /></a>
 <a href="https://instagram.com/usama.shahid8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="usama.shahid8" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/one man" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="one man" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/usama shahid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="usama shahid" height="30" width="40" /></a>
 </p>
 
