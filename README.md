@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Usama Shahid</h1>
-<h3 align="center">A passionate frontend developer from Pakistan</h3>
+<h3 align="center">A passionate backend developer from Pakistan</h3>
 <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="HORIZONTAL" data-vanity="usama-shahid-313309200" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://pk.linkedin.com/in/usama-shahid-313309200?trk=profile-badge">Usama Shahid</a></div>
               
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=usamashahid569&label=Profile%20views&color=0e75b6&style=flat" alt="usamashahid569" /> </p>
