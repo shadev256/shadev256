@@ -59,8 +59,6 @@ I thrive in building **secure, high-performance .NET applications**, event-drive
 ## 📊 GitHub Stats & Activity
 
 <p align="center">
-  <!-- Overall Stats (shows commits this year, PRs, Issues, etc.) -->
-  <img src="https://github-readme-stats.vercel.app/api?username=shadev256&show_icons=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="165" />
   <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shadev256&layout=compact" alt="Top Languages" height="165" />
 </p>
@@ -73,4 +71,4 @@ I thrive in building **secure, high-performance .NET applications**, event-drive
 <!-- Activity Graph (recent contribution graph) -->
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shadev256&theme=github)
 
-> 💡 *The **Stats** card shows total PRs/Issues and commits (this year). If any image doesn't load, it's usually a temporary rate-limit — it will auto-fix.*
+
