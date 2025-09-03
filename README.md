@@ -51,9 +51,26 @@ I thrive in building **secure, high-performance .NET applications**, event-drive
 - ✉️ Email: shahidusama40763@gmail.com  
 
 ---
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shadev256&show_icons=true&locale=en&layout=compact" alt="shadev256" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shadev256&show_icons=true&locale=en" alt="shadev256" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shadev256&" alt="shadev256" /></p>
 ⭐️ *"Building high-performance systems that solve real-world problems at scale."*  
+
+---
+
+## 📊 GitHub Stats & Activity
+
+<p align="center">
+  <!-- Overall Stats (shows commits this year, PRs, Issues, etc.) -->
+  <img src="https://github-readme-stats.vercel.app/api?username=shadev256&show_icons=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="165" />
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shadev256&layout=compact" alt="Top Languages" height="165" />
+</p>
+
+<p align="center">
+  <!-- Streak (continuous days of contributions) -->
+  <img src="https://streak-stats.demolab.com?user=shadev256" alt="GitHub Streak" />
+</p>
+
+<!-- Activity Graph (recent contribution graph) -->
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shadev256&theme=github)
+
+> 💡 *The **Stats** card shows total PRs/Issues and commits (this year). If any image doesn't load, it's usually a temporary rate-limit — it will auto-fix.*
