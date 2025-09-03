@@ -59,6 +59,8 @@ I thrive in building **secure, high-performance .NET applications**, event-drive
 ## 📊 GitHub Stats & Activity
 
 <p align="center">
+  ![GitHub Streak](https://streak-stats.demolab.com?user=shadev256&v=2)
+
   <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shadev256&layout=compact" alt="Top Languages" height="165" />
 </p>
