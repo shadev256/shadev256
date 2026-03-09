@@ -7,12 +7,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shadev256&show_icons=true&theme=transparent&hide_border=true" />
-  <img src="https://github-readme-streak-stats.demolab.com?user=shadev256&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shadev256&layout=compact&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=shadev256&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
