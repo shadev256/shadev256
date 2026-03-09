@@ -1,8 +1,6 @@
 # Hi there 👋, I'm Usama Shahid
 
 🚀 **Software Engineer | Full Stack Developer | FinTech Specialist**  
-📍 Lahore, PK | ✉️ shahidusama40763@gmail.com | [LinkedIn](https://www.linkedin.com/in/usama-shahid-dev/) | [GitHub](https://github.com/shadev256)
-
 ---
 
 ## 👨‍💻 About Me
