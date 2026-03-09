@@ -1,6 +1,7 @@
 # Hi there 👋, I'm Usama Shahid
 
-🚀 **Software Engineer | Full Stack Developer | FinTech Specialist**  
+🚀 **Software Engineer | Full Stack Developer | FinTech Specialist**
+
 ---
 ## 📊 GitHub Stats & Activity
 
