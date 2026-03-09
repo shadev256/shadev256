@@ -6,12 +6,6 @@
 ## 👨‍💻 About Me
 I'm a passionate **Software Engineer** with 5+ years of experience specializing in **low-latency trading systems**, **enterprise SaaS applications**, and **scalable cloud solutions**.  
 I thrive in building **secure, high-performance .NET applications**, event-driven microservices, and modern frontends using React and Angular.
-
-- ⚡ Improved trade execution speed by **70–80%** in a prop trading platform by refactoring core .NET libraries and implementing multithreading.  
-- 📉 Reduced WebSocket latency by **25%**, enhancing real-time order confirmations and quotes.  
-- 🔐 Streamlined KYC & payment flows via **SUMSUB & PayPipes**, cutting onboarding time by **80%**.  
-- 👨‍🏫 Mentored junior developers, reducing onboarding time by **30%** and uplifting overall code quality.  
-
 ---
 
 ## 🛠️ Tech Stack
