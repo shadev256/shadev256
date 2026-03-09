@@ -57,17 +57,10 @@ I thrive in building **secure, high-performance .NET applications**, event-drive
 ---
 
 ## 📊 GitHub Stats & Activity
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shadev256&show_icons=true&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shadev256&layout=compact&hide_border=true" alt="Top Languages" height="165" />
-</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=shadev256&hide_border=true" alt="GitHub Streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shadev256&theme=github&hide_border=true" alt="Activity Graph" />
-</p>
 
 
