@@ -2,7 +2,13 @@
 
 🚀 **Software Engineer | Full Stack Developer | FinTech Specialist**  
 ---
+## 📊 GitHub Stats & Activity
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=shadev256&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
 ## 👨‍💻 About Me
 I'm a passionate **Software Engineer** with 5+ years of experience specializing in **low-latency trading systems**, **enterprise SaaS applications**, and **scalable cloud solutions**.  
 I thrive in building **secure, high-performance .NET applications**, event-driven microservices, and modern frontends using React and Angular.
@@ -17,16 +23,6 @@ I thrive in building **secure, high-performance .NET applications**, event-drive
 **Cloud & DevOps:** Azure, Azure Functions, Docker, GitHub Actions, GitLab, Bitbucket  
 **Testing:** xUnit, Moq, NSubstitute, Selenium, Playwright  
 **Integrations:** MetaTrader API, FIX Engine (T4B), SUMSUB KYC, PayPipes, Twilio, HubSpot, Recurly  
-
----
-
-## 📂 Featured Projects
-
-- **Prop Trading Platform** → Real-time trading system with FIX Engine & MetaTrader integration, handling thousands of concurrent trades.  
-- **Gluon ERP System** → ERP modules with Angular + Abp.io + .NET, deployed across SMEs.  
-- **OnShift SaaS** → Workforce management tool (React + .NET + MongoDB).  
-- **RuleOneToolBox** → FinTech toolbox (Angular + .NET 6 + PostgreSQL).  
-- **Warehouse & Logistics** → .NET 5 APIs + Console automation for supply chain optimization.  
 
 ---
 
@@ -45,14 +41,6 @@ I thrive in building **secure, high-performance .NET applications**, event-drive
 ---
 
 ⭐️ *"Building high-performance systems that solve real-world problems at scale."*  
-
----
-
-## 📊 GitHub Stats & Activity
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=shadev256&hide_border=true" alt="GitHub Streak" />
-</p>
 
 
 
