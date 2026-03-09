@@ -3,17 +3,26 @@
 🚀 **Software Engineer | Full Stack Developer | FinTech Specialist**
 
 ---
-## 📊 GitHub Stats & Activity
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=shadev256&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shadev256&show_icons=true&theme=transparent&hide_border=true" />
+  <img src="https://github-readme-streak-stats.demolab.com?user=shadev256&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shadev256&layout=compact&hide_border=true" />
 </p>
 
 ---
+
 ## 👨‍💻 About Me
 I'm a passionate **Software Engineer** with 5+ years of experience specializing in **low-latency trading systems**, **enterprise SaaS applications**, and **scalable cloud solutions**.  
 I thrive in building **secure, high-performance .NET applications**, event-driven microservices, and modern frontends using React and Angular.
+
 ---
+
 
 ## 🛠️ Tech Stack
 
